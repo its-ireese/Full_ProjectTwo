@@ -1,5 +1,4 @@
-# Projectone
-<h1> Reimbursement Project 2 </h1>
+# Reimbursement Project 2
 
 <h3>Project Description</h3>
 Here is an updated team effort to improve a pervious project that was solo. As a group we decided who had the most completed backend then grew and expanded from there as a whole. For this project it was the same features as before but getting the employees the ability to add the receipt for their request and for managers to them them had to be added. Also the backend code had to be converted into Spring. 
